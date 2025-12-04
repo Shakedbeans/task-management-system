@@ -5,8 +5,10 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
-</p>
+<p align="center">Um framework <a href="http://nodejs.org" target="_blank">Node.js</a> progressivo para construir aplicações do lado do servidor eficientes e escaláveis.</p>
+<p align="center">
+
+
 # Sistema de Gerenciamento de Tarefas API
 
 Uma API RESTful construída com Nest.js para gerenciamento de tarefas e autenticação de usuários. Este projeto foi desenvolvido como trabalho de aula seguindo os padrões do framework Nest.js.

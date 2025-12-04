@@ -18,7 +18,6 @@
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
 </p>
-
 # Sistema de Gerenciamento de Tarefas API
 
 Uma API RESTful construída com Nest.js para gerenciamento de tarefas e autenticação de usuários. Este projeto foi desenvolvido como trabalho de aula seguindo os padrões do framework Nest.js.
